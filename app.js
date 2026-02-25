@@ -22,4 +22,5 @@ axios.get(url)
 })
 .catch(function(error) {
     console.log("Error fetching weather data:", error);
+    console.log("Part 1 API Integration Branch");
 });
